@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168152302848",
+    "project_id": "albanitmapp",
+    "storage_bucket": "albanitmapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168152302848:android:6ccf0f08c6393ca7ac5fe5",
+        "android_client_info": {
+          "package_name": "com.example.albanitm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIogB-IbOHG98QmKfAsh6ZMtQQpsa75oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
